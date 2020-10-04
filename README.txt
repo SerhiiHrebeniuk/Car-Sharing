@@ -1,7 +1,3 @@
-**Wytyczne do projektu:**
+Simple Layuot
 
-- wszystkie grafiki znajduj¹ siê w katalogu `images`
-
-- szerokoœc treœci strony to `1096px`
-
-- u¿yty na stronie font to `Nunito Sans` dostêpny na Google Fonts
+Created using by: HTML5, CSS3.
